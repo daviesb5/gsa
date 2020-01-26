@@ -1,0 +1,15 @@
+===================================
+To update GitHub link
+===================================
+cd C:/Users/Braedon/Documents/x/gsa
+ls
+git remote add origin https://github.com/daviesb5/gsa.git
+
+===================================
+To upload files to GitHub
+===================================
+git add .
+git status
+git commit -m "Adding Files"
+git status
+$ git push -u origin master
