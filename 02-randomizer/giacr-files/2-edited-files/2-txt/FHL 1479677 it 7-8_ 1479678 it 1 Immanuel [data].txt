@@ -216,7 +216,7 @@ Sophia Borbein		b.	"Soest, Westfalen"	28 Aug 1835	dau of	Wilhelm Borbein	Ref: Co
 														
 Georg van Buren		b.	"Rittershausen, Bayern"	18 Apr 1835	step son of	Christian van Buren	Ref: Confirmations 1849:37.							
 														
-Maria Carstens		b.	Schleswig-Holstein 18 May 1834	dau of	Wilhelm Carstens	Ref: Confirmations 1849:38.								
+Maria Carstens		b.	Schleswig-Holstein	18 May 1834	dau of	Wilhelm Carstens	Ref: Confirmations 1849:38.							
 														
 Wilhelm Carstens		b.	Schleswig-Holstein	Ref: Confirmations 1849:38.										
 														
@@ -350,9 +350,9 @@ Dorothee Sophie Louise Heinecke		b.	"Schwarmstedt, Hannover"	23 Oct 1837	dau of	
 														
 Friedrich Luedecke		b.	"Sachsa, Sachsen (province)"	29 June 1836	son of	Heinrich Adam Luedecke	Ref: Confirmations 1851:26.							
 														
-Hermann Holz		b.	"Schloß Spring [?], Preußen 1837"	son of	Zacharias Holz	Ref: Confirmations 1851:27.								
+Hermann Holz		b.	"Schloß Spring [?], Preußen"	1837	son of	Zacharias Holz	Ref: Confirmations 1851:27.							
 														
-Johann Christian Metz		b.	"Bollhausen [?], Preußen 23 Dec 1837"	son of	Christoph August Bernhard Metz	Ref: Confirmations 1851:28.								
+Johann Christian Metz		b.	"Bollhausen [?], Preußen"	23 Dec 1837	son of	Christoph August Bernhard Metz	Ref: Confirmations 1851:28.							
 														
 Auguste Caroline Wenckel		b.	"Sachsa, Sachsen (province)"	11 July 1838	dau of	Friedrich Wilhelm Wenckel	Ref: Confirmations 1852:1.							
 														
@@ -376,7 +376,7 @@ Friedriche Johanriette Kolass		b.	"Wehrheim, Hessen-Nassau"	6 Jan 1839	dau of	Ph
 														
 Matthias Rudolph Heidland		b.	"Dissen, Hannover"	27 June 1838	son of	Heinrich Philipp Heidland	Ref: Confirmations 1852:13.							
 														
-Auguste Marie Anne Sophie Scheffler		b.	"Heiligenfelde, Preußen 6 Nov 1838"	dau of	Johann Heinrich Matthias Scheffler	Ref: Confirmations 1852:16.								
+Auguste Marie Anne Sophie Scheffler		b.	"Heiligenfelde, Preußen"	6 Nov 1838	dau of	Johann Heinrich Matthias Scheffler	Ref: Confirmations 1852:16.							
 														
 Friedrich Wilhelm Stricker		b.	"Lenne, Westfalen"	29 Dec 1838	son of	Ditrich Stricker	Ref: Confirmations 1852:17.							
 														
@@ -448,7 +448,7 @@ Anna Barbara Friedrich		b.	"Eichfeld, Mittelfranken, Bayern"	20 Feb 1837	dau of	
 														
 Friederike Louise Henriette Scheffler		b.	"Leppin, Pommern"	5 May 1840	dau of	Johann Heinz Matthias Scheffler	Ref: Confirmations 1853:2:1.							
 														
-Anna Maria Elisabeth Kesemann		b.	"Hicker [?], Preußen 29 Aug 1840"	dau of	Hermann Heinrich Kesemann	Ref: Confirmations 1853:2:2.								
+Anna Maria Elisabeth Kesemann		b.	"Hicker [?], Preußen"	29 Aug 1840	dau of	Hermann Heinrich Kesemann	Ref: Confirmations 1853:2:2.							
 														
 Maria Engel Kuhlenbeck		b.	"Holte, Hannover"	10 May 1841	dau of	Johann Heinrich Kuhlenbeck	Ref: Confirmations 1853:2:3.							
 														
@@ -496,7 +496,7 @@ Heinrich Ahlbrand		b.	"Illnhausen, Hessen"	26 Nov 1842	son of	Heinrich Ahlbran	R
 														
 Heinrich Staiger		b.	"Stein, Baden"	4 Dec 1841	son of	Heinrich Staiger	Ref: Confirmations 1854-1855:9.							
 														
-Gesina Maria Krenning		b.	"Dissen, Hannvoer 24 Dec 1841"	dau of	Bernhard Heinrich Krenning	Ref: Confirmations 1854-1855:10.								
+Gesina Maria Krenning		b.	"Dissen, Hannover"	24 Dec 1841	dau of	Bernhard Heinrich Krenning	Ref: Confirmations 1854-1855:10.							
 														
 														
 														
@@ -560,7 +560,7 @@ Heinrich Wilhelm Steppelwerth		b.	"Osnabrück (district), Hannover"	18 Apr 1842 [
 														
 Hanna Friederike Wemhoener		b.	"Bielefeld, Westfalen"	24 Apr 1843	dau of	Casper Wilhelm Wemhoener	Ref: Confirmations 1855-1856:23.							
 														
-Peter Behmer		b.	"Herford, Westfalen"	1842	son of	Friedrich Kinker [?] and Tabeh [?] Behmer	Ref: Confirmations 1855-1856:24.							
+Peter Behmer		b.	"Herford, Westfalen"	1842	son of	Friedrich Kinker [?]	and	Tabeh [?] Behmer	Ref: Confirmations 1855-1856:24.					
 														
 Christine [?] Liese		b.	"Oberschwaig [?], Pfalz, Bayern"	1842	dau of	Jacob Liese	Ref: Confirmations 1855-1856:25.							
 														
@@ -586,7 +586,7 @@ Wilhelmine Hoepfner		b.	"Izenburg [?], Mecklenburg-Schwerin"	1842	Ref: Confirmat
 														
 Friedrich Heinrich Kaiser		b.	"Winzlar, Hannover"	8 Mar 1843	son of	Heinrich Kaiser	Ref: Confirmations 1856-1857:1.							
 														
-Julie Wilhelmine Tegtmeyer		b.	"Sarstedt, Hildesheim [?], Preußen 9 Dec 1843"	dau of	Ernst Christian Tegtmeyer	Ref: Confirmations 1856-1857:2.								
+Julie Wilhelmine Tegtmeyer		b.	"Sarstedt, Hildesheim [?], Preußen"	9 Dec 1843	dau of	Ernst Christian Tegtmeyer	Ref: Confirmations 1856-1857:2.							
 														
 Marie Sophie Norden		b.	"Bostel, Hannover"	20 Apr 1843	dau of	Hermann Norden	Ref: Confirmations 1856-1857:3.							
 														
@@ -594,7 +594,7 @@ Johanne Amalie Louise Wilhelmine Scheffler		b.	"Leppin, Pommern [?]"	23 Jan 1843
 														
 Auguste Friederike Engelmann		b.	"Nordheim, Germany"	18 May 1843	dau of	Georg Heinrich Engelmann	Ref: Confirmations 1856-1857:8.							
 														
-Rosine Wilhelmine Caroline Brand		b.	"Grossheim, Ostpreußen [?] 2 Aug 1843"	dau of	Heinrich Dietrich Brand	Ref: Confirmations 1856-1857:10.								
+Rosine Wilhelmine Caroline Brand		b.	"Grossheim, Ostpreußen [?]"	2 Aug 1843	dau of	Heinrich Dietrich Brand	Ref: Confirmations 1856-1857:10.							
 														
 Amalie Engel Maria Vortmann		b.	"Osnabrück (district), Hannover"	2 Apr 1843	dau of	Hermann Heinrich Vortmann	Ref: Confirmations 1856-1857:11.							
 														
@@ -620,7 +620,7 @@ Ida Philippine Amalie Richter		b.	"Nordfeld*[?], Hannover"	17 Mar 1843	dau of	Ad
 														
 Heinrich Niemeier		b.	"Enger, Westfalen"	25 Dec 1843	son of	Peter Heinrich Niemeier	Ref: Confirmations 1856-1857:30.							
 														
-Carl Friedrich Wilhelm Rickelein		b.	"Obernkirchen, Hesse-Nassau 6 Nov 1843"	son of	Sebastian Rickelein	Ref: Confirmations 1856-1857:33.								
+Carl Friedrich Wilhelm Rickelein		b.	"Obernkirchen, Hesse-Nassau"	6 Nov 1843	son of	Sebastian Rickelein	Ref: Confirmations 1856-1857:33.							
 														
 Peter Heinrich Schroeder		b.	"Herford, Westfalen"	27 Sept 1842	son of	Peter Heinrich Schroeder	Ref: Confirmations 1856-1857:34.							
 														
@@ -636,7 +636,7 @@ Christian Dietrich Heinrich [?] Lund		b.	"Föhren, Rheinprovinz [?]"	9 Feb 1845	s
 														
 Christine Friederike Heinkel		b.	"Linsenhofen [?], Württemberg"	16 Sept 1842	dau of	Johann Daniel Heinkel	Ref: Confirmations 1856-1857:43.							
 														
-Wilhelmine Catharine Florentine Wishmann		b.	"Holzhausen, Preußen 10 Nov 1842"	dau of	Franz Heinrich Wishmann	Ref: Confirmations 1856-1857:44.								
+Wilhelmine Catharine Florentine Wishmann		b.	"Holzhausen, Preußen"	10 Nov 1842	dau of	Franz Heinrich Wishmann	Ref: Confirmations 1856-1857:44.							
 														
 Johann Daniel Heinkel		b.	"Linsenhofen, Württemberg"	28 Jan 1840	son of	Johann Daniel Heinkel	Ref: Confirmations 1856-1857:45.							
 														
@@ -674,7 +674,7 @@ Heinrich Goerge Carl Klie		b.	"Klein Lengden, Hildesheim, Hannover"	23 Sept 1845
 														
 Sophia Dorothea Hagedorn		b.	"Klein Heidorn, Hannover"	10 Mar 1845	son of	Johann Heinrich Conrad Hagedorn	Ref: Confirmations 1857-1858:16.							
 														
-Hermann Julius Lewedag		b.	"Steinfurth, Preußen 10 Jan 1844"	son of	Heinrich Lewedag	Ref: Confirmations 1857-1858:17.								
+Hermann Julius Lewedag		b.	"Steinfurth, Preußen"	10 Jan 1844	son of	Heinrich Lewedag	Ref: Confirmations 1857-1858:17.							
 														
 Hanna Friedrike Lager		b.	"Schildesche, Westfalen"	1845	dau of	Friedrich Lager	Ref: Confirmations 1857-1858:18.							
 														
@@ -774,7 +774,7 @@ Johann Heinrich Sachlebend		b.	Hannover (province)	son of	Johann Friedrich Sachl
 														
 Maria Margaretha Bodemann		b.	"Battenbrock [?], Hannover"	dau of	Hermann Heinrich Bodemann	m.	"St. Louis, MO"	3 Mar 1848	Johann Heinrich Sachlebend	Ref: Marriages 1848:2.				
 														
-Johann Philipp Schroeder		b.	"Agilla, Ostpreußen [?]"	son of	Caspar Heinrich Schroeder	m.	"St. Louis, MO"	7 Apr 1848	Johanne Carolina Wiebracht	Ref: Marriages 1848:3.				
+Johann Philipp Schroeder		b.	"Agilla, Ostpreußen"	[?]	son of	Caspar Heinrich Schroeder	m.	"St. Louis, MO"	7 Apr 1848	Johanne Carolina Wiebracht	Ref: Marriages 1848:3.			
 														
 Johann Heinrich Dammmeier		b.	"Bengen [?], Preußen"	m.	"St. Louis, MO"	16 Apr 1848	Anna Catherina Ilsabein Richter	Ref: Marriages 1848:4.						
 														
@@ -910,9 +910,9 @@ Heinrich Wilhelm Dierking		b.	"Neustadt, Hannover"	son of	Johann Heinrich Dierki
 														
 Maria Margaretha Remmert		b.	"Dielingen, Westfalen"	dau of	Johann Heinrich Remmert	m.	"St. Louis, MO"	20 May 1849	Heinrich Wilhelm Dierking	Ref: Marriages 1849:16.				
 														
-Georg Hassfurther		b.	"Brodhausen, Bayern [?]"	son of	Lorenz Hassfurther	m.	"St. Louis, MO"	27 May 1849	Eva Gerhard	Ref: Marriages 1849:1:17.				
+Georg Hassfurther		b.	"Brodhausen, Bayern"	[?]	son of	Lorenz Hassfurther	m.	"St. Louis, MO"	27 May 1849	Eva Gerhard	Ref: Marriages 1849:1:17.			
 														
-August Reinheimer		b.	Bayern [?]	son of	Lyon [?] Reinheimer	m.	"St. Louis, MO"	18 June 1849	Catharina - -	Ref: Marriages 1849:19.				
+August Reinheimer		b.	Bayern	[?]	son of	Lyon [?] Reinheimer	m.	"St. Louis, MO"	18 June 1849	Catharina - -	Ref: Marriages 1849:19.			
 														
 Philipp Schneider		b.	Hessen	son of	Johannes Schneider	m.	"St. Louis, MO"	17 June 1849	Eva Baumann	Ref: Marriages 1849:20.				
 														
@@ -954,9 +954,9 @@ Heinrich Fahlbosch		b.	"Göttingen, Hannover"	m.	"St. Louis, MO"	26 Sept 1849	Hel
 														
 Helena Mueller		b.	"Göttingen, Hannover"	dau of	Ernst Mueller	m.	"St. Louis, MO"	26 Sept 1849	Heinrich Fahlbosch	Ref: Marriages 1849:39.				
 														
-Magdalena Moskopf		b.	Bayern [?]	m.	"St. Louis, MO"	1 Oct 1849	Dietrich Cornelius Brence	Ref: Marriages 1849:40.						
+Magdalena Moskopf		b.	Bayern	[?]	m.	"St. Louis, MO"	1 Oct 1849	Dietrich Cornelius Brence	Ref: Marriages 1849:40.					
 														
-Philipp Theobald		b.	Bayern [?]	m.	"St. Louis, MO"	2 Oct 1849	Elise Vogel	Ref: Marriages 1849:41.						
+Philipp Theobald		b.	Bayern	[?]	m.	"St. Louis, MO"	2 Oct 1849	Elise Vogel	Ref: Marriages 1849:41.					
 														
 Hermann Wilhelm Buenga		b.	"Etzdorf, Sachsen (kingdom or province)"	son of	Jacob Friedrich Buenga	m.	"St. Louis, MO"	20 Oct 1849	Anna Catharine Windecker	Ref: Marriages 1849:42.				
 														
@@ -968,7 +968,7 @@ Wilhelm Gehner		b.	Hannover (province)	m.	"St. Louis, MO"	16 Oct 1849	Carolina L
 														
 Carolina Lochmueller		b.	Bayern	m.	"St. Louis, MO"	16 Oct 1849	Wilhelm Gehner	Ref: Marriages 1849:45.						
 														
-Johann Schmidt		b.	"Baimhofen, Bayern [?]"	son of	Johann Schmidt [?]	m.	"St. Louis, MO"	4 Nov 1849	Margaretha Schaeffer	Ref: Marriages 1849:47.				
+Johann Schmidt		b.	"Baimhofen, Bayern"	[?]	son of	Johann Schmidt [?]	m.	"St. Louis, MO"	4 Nov 1849	Margaretha Schaeffer	Ref: Marriages 1849:47.			
 														
 Franz Wilhelm Brinkmann		b.	Hannover (province)	son of	Friedrich Brinkmann	m.	"St. Louis, MO"	5 Nov 1849	Wilhelmine Gehners	Ref: Marriages 1849:1:48.				
 														
@@ -1106,7 +1106,7 @@ Carl Christian Ludewig Frohberg		b.	"Göttingen, Hannover"	son of	Heinrich Frohbe
 														
 Louise Scheer		b.	Lippe (principality)	m.	"St. Louis, MO"	7 Nov 1850	Carl Christian Ludewig Frohberg	Ref: Marriages 1850:39.						
 														
-Philipp Tobias Doerfler		b.	"Oberherrnhausen, Bayern [?]"	m.	"St. Louis, MO"	7 Nov 1850	Maria Bernhard	Ref: Marriages 1850:40.						
+Philipp Tobias Doerfler		b.	"Oberherrnhausen, Bayern"	[?]	m.	"St. Louis, MO"	7 Nov 1850	Maria Bernhard	Ref: Marriages 1850:40.					
 														
 Maria Bernhard		b.	"Zagangs [?], Mähren"	m.	"St. Louis, MO"	7 Nov 1850	Philipp Tobias Doerfler	Ref: Marriages 1850:40.						
 														
@@ -1124,7 +1124,7 @@ Barbara Elisabeth - -		b.	"Fahrenbach, Germany"	m.	"St. Louis, MO"	1 Dec 1850	Ja
 														
 Johann Conrad Heddrich		b.	"Unfriedsdorf, Oberfranken, Bayern"	m.	"St. Louis, MO"	5 Dec 1850	Catharina Margaretha Jahreis	Ref: Marriages 1850:45.						
 														
-Catharina Margaretha Jahreis		b.	"Bliesschweyen, Elsaß-Lothringen [?]"	m.	"St. Louis, MO"	5 Dec 1850	Johann Conrad Heddrich	Ref: Marriages 1850:45.						
+Catharina Margaretha Jahreis		b.	"Bliesschweyen, Elsaß-Lothringen"	[?]	m.	"St. Louis, MO"	5 Dec 1850	Johann Conrad Heddrich	Ref: Marriages 1850:45.					
 														
 Heinrich Wilhelm Schuetz		b.	"Dissen, Hannover"	son of	Hermann Heinrich Schuetz	m.	"St. Louis, MO"	"1 Jan 1851 [?], Marie Susanna Langbein"	Ref: Marriages 1850:46.					
 														
@@ -1192,9 +1192,9 @@ Marie Hense		b.	"Olden*[?], Hannover"	dau of	Heinrich Friedrich Hense	m.	"St. Lo
 														
 Johann Heinrich Tubesing		b.	"Halle, Preußen"	son of	Hermann Heinrich Tubesing	m.	"St. Louis, MO"	10 Aug 1851	Anna Maria Moellering	Ref: Marriages 1851:23.				
 														
-Anna Maria Moellering		b.	"Herfurth, Bayern [?]"	dau of	Caspar Heinrich Moellering [?]	m.	"St. Louis, MO"	10 Aug 1851	Johann Heinrich Tubesing	Ref: Marriages 1851:23.				
+Anna Maria Moellering		b.	"Herfurth, Bayern"	[?]	dau of	Caspar Heinrich Moellering [?]	m.	"St. Louis, MO"	10 Aug 1851	Johann Heinrich Tubesing	Ref: Marriages 1851:23.			
 														
-Louise Neun		b.	"Wassing, Bayern [?]"	dau of	Conrad Neun	m.	"St. Louis, MO"	27 July 1851	Johannes Schneider	Ref: Marriages 1851:24.				
+Louise Neun		b.	"Wassing, Bayern"	[?]	dau of	Conrad Neun	m.	"St. Louis, MO"	27 July 1851	Johannes Schneider	Ref: Marriages 1851:24.			
 														
 Johann Gottfried Storll		b.	"Polkau [?], Sachsen (province)"	son of	Gottlob Storll	m.	"St. Louis, MO"	12 Aug 1851	Philippe Caroline Wenkel	Ref: Marriages 1851:25.				
 														
@@ -1230,15 +1230,15 @@ Margaretha Schott		b.	"Bayreuth, Bayern"	m.	"St. Louis, MO"	13 Nov 1851	Johann G
 														
 Wilhelm Hammez		b.	"Versmold, Minden, Westfalen"	m.	"St. Louis, MO"	16 Nov 1851	Catharina Schlienkmannz	Ref: Marriages 1851:38.						
 														
-Catharina Schlienkmannz		b.	"Beuchte, Preußen [?]"	m.	"St. Louis, MO"	16 Nov 1851	Wilhelm Hammez	Ref: Marriages 1851:38.						
+Catharina Schlienkmannz		b.	"Beuchte, Preußen"	[?]	m.	"St. Louis, MO"	16 Nov 1851	Wilhelm Hammez	Ref: Marriages 1851:38.					
 														
 August Doering		b.	"Adelebsen, Hannover"	m.	"St. Louis, MO"	20 Nov 1851	Franziska Maler	Ref: Marriages 1851:39.						
 														
 Franziska Maler		b.	"Selz, Elsaß-Lothringen"	m.	"St. Louis, MO"	20 Nov 1851	August Doering	Ref: Marriages 1851:39.						
 														
-Johann Rabenstein		b.	"Bayreuth, Bayern [?]"	m.	"St. Louis, MO"	20 Nov 1851	Margaretha Poehner	Ref: Marriages 1851:40.						
+Johann Rabenstein		b.	"Bayreuth, Bayern"	[?]	m.	"St. Louis, MO"	20 Nov 1851	Margaretha Poehner	Ref: Marriages 1851:40.					
 														
-Margaretha Poehner		b.	"Bayreuth, Bayern [?]"	m.	"St. Louis, MO"	20 Nov 1851	Johann Rabenstein	Ref: Marriages 1851:40.						
+Margaretha Poehner		b.	"Bayreuth, Bayern"	[?]	m.	"St. Louis, MO"	20 Nov 1851	Johann Rabenstein	Ref: Marriages 1851:40.					
 														
 Johann Friedrich Luebenen		b.	"Gross Infeld, Oldenburg [?]"	son of	Heinrich Luebenen [?]	m.	"St. Louis, MO"	28 Dec 1851	Dorothea Hogedorn	Ref: Marriages 1851:42.				
 														
@@ -1278,9 +1278,9 @@ Ernestine Friedricke Mende		b.	"Naumburg, Preußen"	dau of	Gottlieb Mende	m.	"St.
 														
 Arnold Wegenmann		b.	Baden (grand duchy)	son of	Carl Wegenmann	m.	"St. Louis, MO"	27 Apr 1852	Mathilde Fischer	Ref: Marriages 1852:10.				
 														
-Mathilde Fischer		b.	"Altmark, Westpreußen [?]"	dau of	Andreas Fischer	m.	"St. Louis, MO"	27 Apr 1852	Arnold Wegenmann	Ref: Marriages 1852:10.				
+Mathilde Fischer		b.	"Altmark, WestPreußen"	[?]	dau of	Andreas Fischer	m.	"St. Louis, MO"	27 Apr 1852	Arnold Wegenmann	Ref: Marriages 1852:10.			
 														
-Heinrich Armbruester		b.	"Wolfstein, Pfalz, Bayern [?]"	son of	Daniel Armsbruester	m.	"St. Louis, MO"	"1852 [?], Louise Friederike Unfried"	Ref: Marriages 1852:11.					
+Heinrich Armbruester		b.	"Wolfstein, Pfalz, Bayern"	[?]	son of	Daniel Armsbruester	m.	"St. Louis, MO"	"1852 [?], Louise Friederike Unfried"	Ref: Marriages 1852:11.				
 														
 Louise Friederike Unfried		b.	"Hertmannsweiler, Württemberg"	dau of	Christoph Unfried	m.	"St. Louis, MO"	"1852 [?], Heinrich Armbruester"	Ref: Marriages 1852:11.					
 														
@@ -1304,7 +1304,7 @@ Friedrich Wilhelm Gieselmann		b.	"Gehlenbeck, Westfalen [?]"	son of	Caspar Giese
 														
 Anna Carolina Lange		b.	"Lahde, Minden, Westfalen"	dau of	Carl Lange	m.	"St. Louis, MO"	18 July 1852	Friedrich Wilhelm Gieselmann	Ref: Marriages 1852:16.				
 														
-Anton Born		b.	"Grosshöhenrain, Bayern [?]"	m.	"St. Louis, MO"	31 July 1852	Philippine Rech	Ref: Marriages 1852:19.						
+Anton Born		b.	"Grosshöhenrain, Bayern"	[?]	m.	"St. Louis, MO"	31 July 1852	Philippine Rech	Ref: Marriages 1852:19.					
 														
 Philippine Rech		b.	"Kreis*[?], Bayern"	m.	"St. Louis, MO"	31 July 1852	Anton Born	Ref: Marriages 1852:19.						
 														
@@ -1312,7 +1312,7 @@ Carl Wilhelm Rheinhard Frederking		b.	"Börninghausen, Minden, Westfalen"	son of	
 														
 Heinrich Philipp Heidland		b.	"Borgholzhausen, Minden, Westfalen"	m.	"St. Louis, MO"	4 Nov 1852	Anna Catharina Elisabeth Kohlmeier	Ref: Marriages 1852:22.						
 														
-Anna Catharina Elisabeth Kohlmeier		b.	"Eppenbrunn, Bayern [?]"	m.	"St. Louis, MO"	4 Nov 1852	Heinrich Philipp Heidland	Ref: Marriages 1852:22.						
+Anna Catharina Elisabeth Kohlmeier		b.	"Eppenbrunn, Bayern"	[?]	m.	"St. Louis, MO"	4 Nov 1852	Heinrich Philipp Heidland	Ref: Marriages 1852:22.					
 														
 Johannes Lieberum		b.	Hessen-Nassau (province)	m.	"St. Louis, MO"	4 Nov 1852	Henriette Wunderlich	Ref: Marriages 1852:23.						
 														
@@ -1360,9 +1360,9 @@ Johannes Schmid		b.	"Horrheim, Württemberg"	son of	Johann Caspar Schmidt [?]	m.	
 														
 Friedericke Scherz		b.	"Fürfeld, Württemberg"	dau of	Andreas Joseph Scherz [?]	m.	"St. Louis, MO"	30 Jan 1853	Johannes Schmid	Ref: Marriages 1853:4.				
 														
-Friedrich Wilhelm Demme		b.	"Kronenberg, Preußen [?]"	m.	"St. Louis, MO"	14 Feb 1853	Maria Louise Lange	Ref: Marriages 1853:5.						
+Friedrich Wilhelm Demme		b.	"Kronenberg, Preußen"	[?]	m.	"St. Louis, MO"	14 Feb 1853	Maria Louise Lange	Ref: Marriages 1853:5.					
 														
-Maria Louise Lange		b.	"Kronenberg, Preußen [?]"	m.	"St. Louis, MO"	14 Feb 1853	Friedrich Wilhelm Demme	Ref: Marriages 1853:5.						
+Maria Louise Lange		b.	"Kronenberg, Preußen"	[?]	m.	"St. Louis, MO"	14 Feb 1853	Friedrich Wilhelm Demme	Ref: Marriages 1853:5.					
 														
 Friedrich Wilhelm Lechtermann		b.	"Schellenbeck [?], Westfalen"	m.	"St. Louis, MO"	17 Feb 1853	Anna Margaretha Brokmeier	Ref: Marriages 1853:6.						
 														
@@ -1412,7 +1412,7 @@ Elise Mussmann		b.	"Hennewich, Westfalen [?]"	m.	"St. Louis, MO"	28 June 1853	He
 														
 Matthaeus Garmontt		b.	"Pal*[?], Germany"	m.	"St. Louis, MO"	5 July 1853	Emilie Muegge	Ref: Marriages 1853:21.						
 														
-Emilie Muegge		b.	"Ostende, Preußen [?]"	m.	"St. Louis, MO"	5 July 1853	Matthaeus Garmontt	Ref: Marriages 1853:21.						
+Emilie Muegge		b.	"Ostende, Preußen"	[?]	m.	"St. Louis, MO"	5 July 1853	Matthaeus Garmontt	Ref: Marriages 1853:21.					
 														
 Johann Heinrich Kuhlenbeck		b.	"Holte, Hannover"	son of	Johann Heinrich Kuhlenbeck	m.	"Benton Co., MO"	1853	Anna Hermann	Ref: Marriages 1853:24.				
 														
@@ -1494,7 +1494,7 @@ Marie Louise Demme		b.	"Neuenkirchen, Minden, Westfalen"	m.	"St. Louis, MO"	17 A
 														
 Elisabetha Schnell		b.	Hessen	m.	"St. Louis, MO"	21 May 1854	Wilhelm Balzer	Ref: Marriages 1854:13.						
 														
-Johann Thomas Angerer		b.	"Pegnitz, Oberfranken, Bayern [?]"	m.	"St. Louis, MO"	25 May 1854	Anna Margarethe Baumann	Ref: Marriages 1854:14.						
+Johann Thomas Angerer		b.	"Pegnitz, Oberfranken, Bayern"	[?]	m.	"St. Louis, MO"	25 May 1854	Anna Margarethe Baumann	Ref: Marriages 1854:14.					
 														
 Anna Margarethe Baumann		b.	Bayern	m.	"St. Louis, MO"	25 May 1854	Johann Thomas Angerer	Ref: Marriages 1854:14.						
 														
@@ -1506,7 +1506,7 @@ Jacob Zweigart		b.	Baden (grand duchy)	m.	"St. Louis, MO"	2 Aug 1854	Magdalena W
 														
 Magdalena Wiesler		b.	Baden (grand duchy)	m.	"St. Louis, MO"	2 Aug 1854	Jacob Zweigart	Ref: Marriages 1854:16.						
 														
-Johann Kiefner		b.	"Grünbichel, Bayern [?]"	m.	"St. Louis, MO"	3 Aug 1854	Appollonia Peter	Ref: Marriages 1854:17.						
+Johann Kiefner		b.	"Grünbichel, Bayern"	[?]	m.	"St. Louis, MO"	3 Aug 1854	Appollonia Peter	Ref: Marriages 1854:17.					
 														
 Appollonia Peter		b.	"Rissing, Bayern"	m.	"St. Louis, MO"	3 Aug 1854	Johann Kiefner	Ref: Marriages 1854:17.						
 														
@@ -1530,7 +1530,7 @@ Margaretha Hepple		b.	Baden (grand duchy)	m.	"St. Louis, MO"	17 Sept 1854	Andrea
 														
 August Franke		b.	"Adelebsen, Hannover"	son of	Heinrich Franke	m.	"St. Louis, MO"	12 Oct 1854	Anna Barbara Horter	Ref: Marriages 1854:26.				
 														
-Anna Barbara Horter		b.	"Mieslenthen, Bayern [?]"	dau of	Joseph Horter	m.	"St. Louis, MO"	12 Oct 1854	August Franke	Ref: Marriages 1854:26.				
+Anna Barbara Horter		b.	"Mieslenthen, Bayern"	[?]	dau of	Joseph Horter	m.	"St. Louis, MO"	12 Oct 1854	August Franke	Ref: Marriages 1854:26.			
 														
 Johann Friedrich Depenthal		b.	"Holte, Hannover"	son of	Johann Friedrich Depenthal	m.	"St. Louis, MO"	28 Sept 1854	Caroline Wilhelmine Bragen	Ref: Marriages 1854:27.				
 														
@@ -1712,7 +1712,7 @@ Heinrich Oelze		b.	Braunschweig (duchy)	m.	"St. Louis, MO"	29 Dec 1856	Anna Frie
 														
 Anna Friederike Voegedings		b.	"Herford, Westfalen"	m.	"St. Louis, MO"	29 Dec 1856	Heinrich Oelze	Ref: Marriages 1856:30.						
 														
-Jacob Steinmetz		b.	Bayern [?]	m.	"St. Louis, MO"	28 Sept 1856	Emilie Auguste Wilhelm	Ref: Marriages 1856:31.						
+Jacob Steinmetz		b.	Bayern	[?]	m.	"St. Louis, MO"	28 Sept 1856	Emilie Auguste Wilhelm	Ref: Marriages 1856:31.					
 														
 Emilie Auguste Wilhelm		b.	"Suhl, Sachsen (province)"	m.	"St. Louis, MO"	28 Sept 1856	Jacob Steinmetz	Ref: Marriages 1856:31.						
 														
@@ -1728,7 +1728,7 @@ Catharina Franziska Kuhn		b.	"Landau, Bayern"	m.	"St. Louis, MO"	11 Jan 1857	Fra
 														
 Hesky Foelker		b.	"Stickhausen, Hannover"	m.	"St. Louis, MO"	1857	Johann Bos	Ref: Marriages 1857:4.						
 														
-Brockhard Gickens		b.	"Essfeld, Bayern [?]"	m.	"St. Louis, MO"	22 Feb 1857	Catharina Wilhelmine Craemer	Ref: Marriages 1857:5.						
+Brockhard Gickens		b.	"Essfeld, Bayern"	[?]	m.	"St. Louis, MO"	22 Feb 1857	Catharina Wilhelmine Craemer	Ref: Marriages 1857:5.					
 														
 Johann Friedrich August Wiebusch		b.	"Osnabrück (district), Hannover"	m.	"St. Louis, MO"	12 Mar 1857	Bertha Mathilde Amalie Harless	Ref: Marriages 1857:6.						
 														
@@ -1772,7 +1772,7 @@ Johanne Caroline Friederike Behrens		b.	"Hohenhameln, Peine, Hannover"	dau of	He
 														
 Georg Friedrich Henn		b.	"Erfurt, Sachsen (province)"	m.	"St. Louis, MO"	13 June 1857	Caroline Wilhelmine Breitschule	Ref: Marriages 1857:17.						
 														
-Caroline Wilhelmine Breitschule		b.	"Torgau, Preußen [?]"	m.	"St. Louis, MO"	13 June 1857	Georg Friedrich Henn	Ref: Marriages 1857:17.						
+Caroline Wilhelmine Breitschule		b.	"Torgau, Preußen"	[?]	m.	"St. Louis, MO"	13 June 1857	Georg Friedrich Henn	Ref: Marriages 1857:17.					
 														
 Johann Georg Bindebeute		b.	Hessen-Nassau (province)	m.	"St. Louis, MO"	15 June 1857	Theresia Sokker	Ref: Marriages 1857:18.						
 														
@@ -1834,9 +1834,9 @@ Louise Caroline Christiane Lange		b.	Hannover (province)	m.	"St. Louis, MO"	11 O
 														
 Johann Sebastian Windecker		b.	"Grebenhain, Hessen"	son of	Andreas Windecker	m.	"St. Louis, MO"	22 Nov 1854	Elisabeth Greb	Ref: Marriages 1857:32.				
 														
-Carl Friedrich Obermeier		b.	Braunschweig (duchy)	son of	Johann Heinrich Hermann Obermeier [?]	m.	"Collinsville, Madison Co., IL"	[?] 1857	Anna Maria Eberhard	Ref: Marriages 1857:33.				
+Carl Friedrich Obermeier		b.	Braunschweig (duchy)	son of	Johann Heinrich Hermann Obermeier [?]	m.	"Collinsville, Madison Co., IL [?]"	1857	Anna Maria Eberhard	Ref: Marriages 1857:33.				
 														
-Anna Maria Eberhard		b.	"Reuting, Bayern [?]"	dau of	Ludwig Eberhard	m.	"Collinsville, Madison Co., IL"	"[?], Carl Friedrich Obermeier"	Ref: Marriages 1857:33.					
+Anna Maria Eberhard		b.	"Reuting, Bayern"	[?]	dau of	Ludwig Eberhard	m.	"Collinsville, Madison Co., IL"	"[?], Carl Friedrich Obermeier"	Ref: Marriages 1857:33.				
 														
 Marie Emilie Mathilde Kreye		b.	"Dedesdorf, Oldenburg"	dau of	Diedrich Kreye	m.	"St. Louis, MO"	17 Nov 1857	August Christian Ferdinand Hernig	Ref: Marriages 1857:34.				
 														
@@ -1928,19 +1928,19 @@ Sophie Charlotte Henriette Lambersiek		b.	Westfalen	m.	"St. Louis, MO"	6 May 185
 														
 Jahst [?] Heinrich Meiersieck		b.	"Kronsberg, Hannover [?]"	m.	"St. Louis, MO"	13 May 1858	Anna Margaretha Islebin Dressing	Ref: Marriages 1858:23.						
 														
-"Anna Margaretha Islebin Dressing b.Spenge, Westfalen"	m.	"St. Louis, MO"	13 May 1858	Jahst [?] Heinrich Meiersieck	Ref: Marriages 1858:23.									
+Anna Margaretha Islebin Dressing		b.	"Spenge, Westfalen"	m.	"St. Louis, MO"	13 May 1858	Jahst [?] Heinrich Meiersieck	Ref: Marriages 1858:23.						
 														
 Gerhard Heinrich Marting		b.	"Mentrup, Osnabrück [?], Hannover"	son of	of Johann Friedrich Marting	m.	"St. Louis, MO"	13 June 1858	Maria Elisabeth Splete	Ref: Marriages 1858:24.				
 														
 Georg Schroeder		b.	Hessen	son of	Philipp Schroeder	m.	"St. Louis, MO"	30 May 1858	Caroline Gruner	Ref: Marriages 1858:25.				
 														
-Georg Ernst Franz Ernst		b.	"Oberschleissheim, Bayern [?]"	m.	"St. Louis, MO"	22 July 1858	Anna Friedrich Flehr	Ref: Marriages 1858:26.						
+Georg Ernst Franz Ernst		b.	"Oberschleissheim, Bayern"	[?]	m.	"St. Louis, MO"	22 July 1858	Anna Friedrich Flehr	Ref: Marriages 1858:26.					
 														
 Peter Heinrich Fleer		b.	"Dissen [?], Hannover"	son of	P. H. Fleer [?]	m.	"St. Louis, MO"	8 Aug 1858	Charlotte Wilhelmine Stemper	Ref: Marriages 1858:27.				
 														
 Charlotte Wilhelmine Stemper		b.	"Dissen, Hannover"	m.	"St. Louis, MO"	8 Aug 1858	Peter Heinrich Fleer	Ref: Marriages 1858:27.						
 														
-Johann Ossel		b.	"Himmelkron, Bayern [?]"	m.	"St. Louis, MO"	15 Aug 1858	Eva Magdalena Zickler	Ref: Marriages 1858:28.						
+Johann Ossel		b.	"Himmelkron, Bayern"	[?]	m.	"St. Louis, MO"	15 Aug 1858	Eva Magdalena Zickler	Ref: Marriages 1858:28.					
 														
 Eva Magdalena Zickler		b.	"Untersuhl, Sachsen-Weimar-Eisenach"	dau of	Nikolaus Zickler	m.	"St. Louis, MO"	15 Aug 1858	Johann Ossel	Ref: Marriages 1858:28.				
 														
@@ -2148,7 +2148,7 @@ Franz Heinrich Richter		b.	"Gehlenbeck, Westfalen"	4 Jan 1848	son of	Ernst Heinr
 														
 Catharina Johannette Henreitte Baehner		b.	"Marienberg, Hessen-Nassau"	18 Mar 1849	dau of	Matthias Baehner	Ref: Confirmations 1860/1861:6.							
 														
-Anna Nelgner		b.	"Wittstock, Preußen 6 Aug 1846"	dau of	Gottlieb Nelgner	Ref: Confirmations 1860/1861:11.								
+Anna Nelgner		b.	"Wittstock, Preußen"	6 Aug 1846	dau of	Gottlieb Nelgner	Ref: Confirmations 1860/1861:11.							
 														
 Emilie Diemer		b.	Württemberg	1846	dau of	Wilhelm Wernemann	Ref: Confirmations 1860/1861:12.							
 														
@@ -2162,7 +2162,7 @@ Catharina Sophia Knapp		b.	"Ispringen, Baden"	4 Apr 1848	dau of	Gottlieb Knapp	R
 														
 Maria Dorothea Tiemeier		b.	"Gehlenbeck, Westfalen [?]"	8 May 1846	dau of	Heinrich Ludwig Tiemeier	Ref: Confirmations 1860/1861:19.							
 														
-Louise Borbein		b.	"Herford, Westfalen"	Oct [?] 1846	dau of	#NAME?	Ref: Confirmations 1860/1861:20.							
+Louise Borbein		b.	"Herford, Westfalen"	Oct [?] 1846	dau of	#NAME?	and	Maria Borbein	Ref: Confirmations 1860/1861:20.					
 														
 Ernst August Sieving		b.	"Westendorf, Hannover [?]"	9 Sept 1847	son of	Johann Heinrich Sieving	Ref: Confirmations 1860/1861:22.							
 														
@@ -2194,7 +2194,7 @@ Christian Johann Friedrich Fresse		b.	Bremen	", Germany"	13 Apr 1844	son of	Joha
 														
 Johanne Hermine Friederike Mielert		b.	"Pyritz, Pommern [?]"	4 June 1848	son of	Carl August Mielert	Ref: Confirmations 1861/1862:1.							
 														
-Gottlieb Carl Bruening		b.	"Hütten, Preußen [?] 26 Sept 1848"	son of	Carl Bruening	Ref: Confirmations 1861/1862:2.								
+Gottlieb Carl Bruening		b.	"Hütten, Preußen [?]"	26 Sept 1848	son of	Carl Bruening	Ref: Confirmations 1861/1862:2.							
 														
 Hermann Heinrich Schwarz		b.	"Enger, Westfalen"	1 Jan 1849	son of	Johann Heinrich Schwarz	Ref: Confirmations 1861/1862:5.							
 														
@@ -2214,7 +2214,7 @@ Johanna Margaretha Magdalena Monica Reissner		b.	"Marienheim, Bayern"	13 June 18
 														
 Bertha Auguste Hermine Seele		b.	"Suhl, Sachsen (province)"	28 Jan 1848	dau of	Valentin Christian Seele	Ref: Confirmations 1861/1862:19.							
 														
-Ernst Wilhelm Ziegler		b.	"Suhl, Sachsen (province)"	11 Jan 1850	son of	Georg Heinrich Eduard Ziegler and Johanna Barbara - -	Ref: Confirmations 1861/1862:23.							
+Ernst Wilhelm Ziegler		b.	"Suhl, Sachsen (province)"	11 Jan 1850	son of	Georg Heinrich Eduard Ziegler	and	Johanna Barbara - -	Ref: Confirmations 1861/1862:23.					
 														
 Elisabeth Maria Knecht		b.	"Stuttgart, Württemberg"	4 [?] Oct 1848	dau of	Ferdinand Knect	Ref: Confirmations 1862/1863:1.							
 														
@@ -2224,11 +2224,11 @@ Anna Margaretha Wunderlich		b.	"Bayreuth, Bayern"	6 Oct 1850	dau of	Georg Wunder
 														
 Rosina Christiana Kuhn		b.	"Linsenhofen, Württemberg [?]"	19 July 1848	dau of	Gottlieb Kuhn	Ref: Confirmations 1862/1863:4.							
 														
-Julius Gustav Ferdinand Schmeck		b.	"Reetz, Preußen 18 Oct 1848"	son of	Ferdinand Schmeck	Ref: Confirmations 1862/1863:6.								
+Julius Gustav Ferdinand Schmeck		b.	"Reetz, Preußen"	18 Oct 1848	son of	Ferdinand Schmeck	Ref: Confirmations 1862/1863:6.							
 														
 Johanne Catharina Charlotte Welpmann		b.	"Gütersloh, Westfalen"	15 Apr 1850	dau of	Heinrich Arneld [?] Welpmann	Ref: Confirmations 1862/1863:7.							
 														
-Catharina Margaretha Ilsabein Wulfmeier		b.	"Werther, Preußen 24 May 1849"	dau of	Caspar Heinrich Wulfmeier	Ref: Confirmations 1862/1863:8.								
+Catharina Margaretha Ilsabein Wulfmeier		b.	"Werther, Preußen"	24 May 1849	dau of	Caspar Heinrich Wulfmeier	Ref: Confirmations 1862/1863:8.							
 														
 Otto Hermann Nelgner		b.	"Ostprignitz, Brandenburg"	13 July 1849	son of	Gottlieb Nelgner	Ref: Confirmations 1862/1863:13.							
 														
@@ -2240,7 +2240,7 @@ Johanne Friederike Richter		b.	"Gehlenbeck, Westfalen [?]"	16 Feb 1850	son of	Er
 														
 Friederika Auguste Caroline Bogenbohl		b.	"Bielefeld, Westfalen"	25 May 1850	dau of	Heinrich Bogenbohl	Ref: Confirmations 1862/1863:31.							
 														
-Friedrich Otto Rudolph Wagner		b.	"Mannsdorf, Preußen 29 Nov 1847"	son of	Friedrich Christian Wagner	Ref: Confirmations 1862/1863:34.								
+Friedrich Otto Rudolph Wagner		b.	"Mannsdorf, Preußen"	29 Nov 1847	son of	Friedrich Christian Wagner	Ref: Confirmations 1862/1863:34.							
 														
 Christian Ludwig Lorenz Heinrich Peiper		b.	"Mengershausen, Hannover"	23 Sept 1849	son of	Heinrich Pieper	Ref: Confirmations 1863/1864:1.							
 														
@@ -2270,7 +2270,7 @@ Rosine Friederike Hensick		b.	"Diepholz, Hannover"	11 Jan 1851	dau of	Heinrich H
 														
 Emilie Krause		b.	"Hainsberg, Germany"	9 Sept 1848	dau of	Friedrich Wilhelm Krause	Ref: Confirmations 1863/1864:41.							
 														
-Wilhelm Logemann		b.	"Minden (district), Preußen 28 Nov 1848"	son of	Wilhelm Logemann	Ref: Confirmations 1863/1864:42.								
+Wilhelm Logemann		b.	"Minden (district), Preußen"	28 Nov 1848	son of	Wilhelm Logemann	Ref: Confirmations 1863/1864:42.							
 														
 Adam Strining		b.	Hessen	27 Aug 1850	son of	Johann Strining	Ref: Confirmations 1863/1864:43.							
 														
@@ -2286,7 +2286,7 @@ Heinrich Ludewig Hermann Hake		b.	"Engter, Hannover"	17 Apr 1851	son of	Johann H
 														
 Maria Elisabeth Brauksicker		b.	"Buer, Hannover"	1851	dau of	Wilhelm Brauksicker	Ref: Confirmations 1864/1865:23.							
 														
-Louise Charlotte Caroline Kemper		b.	"Holzhausen, Preußen 23 July 1852"	dau of	Friedrich Wilhelm Kempter	Ref: Confirmations 1864/1865:26.								
+Louise Charlotte Caroline Kemper		b.	"Holzhausen, Preußen"	23 July 1852	dau of	Friedrich Wilhelm Kempter	Ref: Confirmations 1864/1865:26.							
 														
 Catharina Maria Walkenhorst		b.	"Bielefeld, Westfalen"	28 Mar 1851	dau of	Heinrich Walkenhorst	Ref: Confirmations 1864/1865:28.							
 														
@@ -2300,13 +2300,13 @@ Dorothea Bertha Seele		b.	"Suhl, Sachsen (province)"	27 Sept 1852	dau of	Christi
 														
 Auguste Albertine Wilhelmine Schmeck		b.	"Reetz, Frankfurt, Brandenburg"	21 Jan 1851	dau of	Wilhelm Schmeck	Ref: Confirmations 1865/1866:2.							
 														
-Elisabeth Braun		b.	"Meerberg, Preußen [?] 8 Mar 1852"	dau of	Heinrich Braun	Ref: Confirmations 1865/1866:6.								
+Elisabeth Braun		b.	"Meerberg, Preußen [?]"	8 Mar 1852	dau of	Heinrich Braun	Ref: Confirmations 1865/1866:6.							
 														
 Wilhelm Heinrich Wulze		b.	"Brake, Lippe"	11 Nov 1852	son of	Heinrich Conrad Wulze	Ref: Confirmations 1865/1866:9.							
 														
 Wilhelmine Friederike Elisabeth Rohme		b.	Hannover (province)	5 Oct 1849	dau of	Hermann Rohme	m.	Heinrich Kopp	Ref: Confirmations 1865/1866:10.					
 														
-Gottlieb Dietrich Sewring		b.	"Niederberg, Preußen [?] 17 Mar 1852"	son of	Hermann Sewing	Ref: Confirmations 1865/1866:18.								
+Gottlieb Dietrich Sewring		b.	"Niederberg, Preußen [?]"	17 Mar 1852	son of	Hermann Sewing	Ref: Confirmations 1865/1866:18.							
 														
 Johanne Catharina Welpmann		b.	"Gütersloh, Westfalen"	22 June 1853	dau of	Arnold Welpmann	Ref: Confirmations 1865/1866:21.							
 														
@@ -2316,9 +2316,9 @@ Carl Friedrich Hermann Oellermann		b.	"Arrenkamp, Westfalen"	2 Feb 1853	son of	F
 														
 Friedrich Richter		b.	"Gehlenbeck, Westfalen [?]"	8 Mar 1852	son of	Ernst Richter	Ref: Confirmations 1865/1866:30.							
 														
-Carl August Hermann Britschuh		b.	"Herzberg, Preußen 3 May 1852"	son of	Carl August Breitschuh	Ref: Confirmations 1865/1866:33.								
+Carl August Hermann Britschuh		b.	"Herzberg, Preußen"	3 May 1852	son of	Carl August Breitschuh	Ref: Confirmations 1865/1866:33.							
 														
-Amalia Maria Emilie Schmeck		b.	"Reetz, Preußen 2 July 1853"	dau of	Ferdinand Schmeck	Ref: Confirmations 1865/1866:34.								
+Amalia Maria Emilie Schmeck		b.	"Reetz, Preußen"	2 July 1853	dau of	Ferdinand Schmeck	Ref: Confirmations 1865/1866:34.							
 														
 Georg Umbach		b.	Hessen	-Nassau 18 Nov 1851	son of	Nicolaus Umbach	Ref: Confirmations 1865/1866:35.							
 														
@@ -2332,7 +2332,7 @@ Katharine Wilhelmine Charlotte Nuemann		b.	"Dissen, Hannover"	25 Nov 1851	dau of
 														
 Karoline Wilhelmine Nanz		b.	"Frotheim, Westfalen"	4 Mar 1854	Ref: Confirmations 1865/1866:47.									
 														
-Wilhelmine Karoline Portmann		b.	"Westrup, Preußen 15 May 1853"	Ref: Confirmations 1865/1866:48.										
+Wilhelmine Karoline Portmann		b.	"Westrup, Preußen"	15 May 1853	Ref: Confirmations 1865/1866:48.									
 														
 Louise Emilie Caroline Krause		b.	"Oberbrechen, Hessen-Nassau [?]"	5 Jan 1854	dau of	Johann Friedrich August Krause	Ref: Confirmations 1866/1867:3.							
 														
@@ -2366,7 +2366,7 @@ Louise Friederike Walters		b.	"Isern [?], Braunschweig"	11 Aug 1854 [?]	dau of	W
 														
 Franz Wilhelm Knollmann		b.	"Westbarthausen, Halle, Westfalen"	13 Jan 1868 [?]	son of	Johann Friedrich Knollmann	Ref: Confirmations 1867/1868: 35. 							
 														
-Friedrich Zelsmann		b.	"Gefell, Preußen 13 July 1855"	son of	Gottfried Zelsmann	Ref: Confirmations 1867/1868: 38.								
+Friedrich Zelsmann		b.	"Gefell, Preußen"	13 July 1855	son of	Gottfried Zelsmann	Ref: Confirmations 1867/1868: 38.							
 														
 Johann Friedrich Barth		b.	"Belm, Osnabrück, Hannover"	son of	Johann Dietrich Barth	m.	"St. Louis, MO"	25 Jan 1859	Catharina Elisabet Boetting	Ref: Marriages 1859:28.				
 														
@@ -2558,7 +2558,7 @@ Johann Michael Juch		b.	"Unterellen, Sachsen-Weimar-Eisenach [?]"	son of	Heinric
 														
 Johann Chritoph Rose		b.	"Schwarzberg, Bayern"	m.	"St. Louis, MO"	12 Nov 1861	Maria Catharina Adelheit Kruse	Ref: Marriages 1861:12.						
 														
-Carl Blank		b.	"Urbau, Bayern [?]"	m.	"St. Louis, MO"	26 Nov 1861	Catharina Charlotte Schroeder	Ref: Marriages 1861:13.						
+Carl Blank		b.	"Urbau, Bayern"	[?]	m.	"St. Louis, MO"	26 Nov 1861	Catharina Charlotte Schroeder	Ref: Marriages 1861:13.					
 														
 Catharina Charlotte Schroeder		b.	"Lübbecke, Westfalen"	m.	"St. Louis, MO"	26 Nov 1861	Carl Blank	Ref: Marriages 1861:13.						
 														
@@ -2704,7 +2704,7 @@ Carl Geitz		b.	"Thalitter, Hessen-Nassau"	m.	"St. Louis, MO"	1 Sept 1864	Cathari
 														
 Catharina Conrad		b.	"Zutzendorf, Elsaß-Lothringen"	m.	"St. Louis, MO"	1 Sept 1864	Carl Geitz	Ref: Marriages 1864:11.						
 														
-Jacob Sages		b.	"Franken, Elsaß-Lothringen [?]"	m.	"St. Louis, MO"	9 Sept 1864	Johanne Friederike Reiz	Ref: Marriages 1864:13.						
+Jacob Sages		b.	"Franken, Elsaß-Lothringen"	[?]	m.	"St. Louis, MO"	9 Sept 1864	Johanne Friederike Reiz	Ref: Marriages 1864:13.					
 														
 Carl Heinrich Imse		b.	"Mühlhausen, Preußen"	m.	"St. Louis, MO"	17 Sept 1864	Christiane Charlotte Fickentscher	Ref: Marriages 1864:15.						
 														
@@ -2964,7 +2964,7 @@ Doris Schaeper Koetter		b.	"Borgholzhausen, Westfalen"	m.	"St. Louis, MO"	2 Aug 
 														
 Johann Daniel Doeringkohff		b.	"Bielefeld, Westfalen"	m.	"St. Louis, MO"	31 July 1868	Catharina Beck	Ref: Marriages 1868:21.						
 														
-Catharina Beck		b.	"Diedesfeld, Bayern [?]"	m.	"St. Louis, MO"	31 July 1868	Johann Daniel Doeringkohff	Ref: Marriages 1868:21.						
+Catharina Beck		b.	"Diedesfeld, Bayern"	[?]	m.	"St. Louis, MO"	31 July 1868	Johann Daniel Doeringkohff	Ref: Marriages 1868:21.					
 														
 Johann Bredehoest		b.	"Ahlerstedt, Hannover"	m.	"St. Louis, MO"	30 Aug 1868	Maria Miesner	Ref: Marriages 1868:22.						
 														
@@ -3160,55 +3160,55 @@ Sophie Hamtze		b.	"Neuhaus, Stade (district) [?], Hannover"	m.	"St. Louis, MO"	1
 														
 														
 														
-Claus August Alpers		b.	"Fahrendorf, Hannover"	Aug 1863	son of	Claus A. Alpers and Anna Meintz	Ref: Confirmations 1875-1876:16.							
+Claus August Alpers		b.	"Fahrendorf, Hannover"	Aug 1863	son of	Claus A. Alpers	and	Anna Meintz	Ref: Confirmations 1875-1876:16.					
 														
-Heinrich Martin Georg Ehlers		b.	"Oldesloe, Schleswig-Holstein"	19 Oct 1863	son of	Johann Carl Ehlers and Catharine Johanne Wormann	Ref: Marriages 1882:19.							
+Heinrich Martin Georg Ehlers		b.	"Oldesloe, Schleswig-Holstein"	19 Oct 1863	son of	Johann Carl Ehlers	and	Catharine Johanne Wormann	Ref: Marriages 1882:19.					
 														
 Caroline Maria Charlotte Knolbe		b.	"Isenstedt, Westfalen"	3 July 1862	dau of	Christian Heinrich Knolbe	Ref: Confirmations 1875-1876:35.							
 														
-Anna Catharina Stief		b.	Hannover (province)	8 Feb 1863	dau of	Hermann Stief and Maria Rese	Ref: Confirmations 1875-1876:44.							
+Anna Catharina Stief		b.	Hannover (province)	8 Feb 1863	dau of	Hermann Stief	and	Maria Rese	Ref: Confirmations 1875-1876:44.					
 														
-Wilhelm Friedrich Sachse		b.	"Gössnitz, Germany"	7 Apr 1863	son of	Friedrich Wilhelm Sachse and Johanna Friederika Sachse	Ref: Confirmations 1876-1877:3.							
+Wilhelm Friedrich Sachse		b.	"Gössnitz, Germany"	7 Apr 1863	son of	Friedrich Wilhelm Sachse	and	Johanna Friederika Sachse	Ref: Confirmations 1876-1877:3.					
 														
-Ferdinandine Carolina westermann		b.	"Hartum, Westfalen"	17 May 1864	dau of	Wilhelm Westermann and Louise Hoppmann	Ref: Confirmations 1876-1877:17.							
+Ferdinandine Carolina westermann		b.	"Hartum, Westfalen"	17 May 1864	dau of	Wilhelm Westermann	and	Louise Hoppmann	Ref: Confirmations 1876-1877:17.					
 														
-August Ludwig Theodor Schwant		b.	"Teschendorf, Pommern"	6 Jan 1864	son of	Johann Schwant and Wilhelmine Droese	Ref: Confirmations 1876-1877:30.							
+August Ludwig Theodor Schwant		b.	"Teschendorf, Pommern"	6 Jan 1864	son of	Johann Schwant	and	Wilhelmine Droese	Ref: Confirmations 1876-1877:30.					
 														
-Anna Catharina Stief		b.	Hannover (province)	8 Feb 1863	dau of	Hermmann Stieff and Maria Rese	Ref: Confirmations 1876-1877:36.							
+Anna Catharina Stief		b.	Hannover (province)	8 Feb 1863	dau of	Hermmann Stieff	and	Maria Rese	Ref: Confirmations 1876-1877:36.					
 														
-Anna Friederike Louise Stiefnate		b.	"Neu Goldbeck, Sachsen (province) [?]"	28 June 1865	dau of	Carl Waldmueller Stiefnate [?] and Hanne Milheimer	Ref: Confirmations 1877-1878:11.							
+Anna Friederike Louise Stiefnate		b.	"Neu Goldbeck, Sachsen (province) [?]"	28 June 1865	dau of	Carl Waldmueller Stiefnate [?]	and	Hanne Milheimer	Ref: Confirmations 1877-1878:11.					
 														
-Amalie Auguste Louise Baumhoefener		b.	"Dissen, Hannover"	16 Nov 1864	dau of	August Baumhoefener and Wilhelmine/Wilhelmina Imholz	Ref: Confirmations 1877-1878:32.							
+Amalie Auguste Louise Baumhoefener		b.	"Dissen, Hannover"	16 Nov 1864	dau of	August Baumhoefener	and	Wilhelmine/Wilhelmina Imholz	Ref: Confirmations 1877-1878:32.					
 														
-Friederike Dorothea Henreitte Dorette Giesecke		b.	"Gadenstedt, Hannover"	17 Sept 1865	dau of	Christian Giesecke and Elisabeth Kracht	Ref: Confirmations 1877-1878:36.							
+Friederike Dorothea Henreitte Dorette Giesecke		b.	"Gadenstedt, Hannover"	17 Sept 1865	dau of	Christian Giesecke	and	Elisabeth Kracht	Ref: Confirmations 1877-1878:36.					
 														
-Friedrich Ferdinand Dau		b.	"Mesendorf, Brandenburg"	28 Feb 1865	son of	Christian Dau and Wilhelmine Neubauer	Ref: Confirmations 1877-1878:38.							
+Friedrich Ferdinand Dau		b.	"Mesendorf, Brandenburg"	28 Feb 1865	son of	Christian Dau	and	Wilhelmine Neubauer	Ref: Confirmations 1877-1878:38.					
 														
-Gerhard Bernhard Cramer		b.	"Badbergen, Osnabrück [?], Hannover"	23 June 1864	son of	Dietrich Cramer and Margaretha Thee	Ref: Confirmations 1877-1878:44.							
+Gerhard Bernhard Cramer		b.	"Badbergen, Osnabrück [?], Hannover"	23 June 1864	son of	Dietrich Cramer	and	Margaretha Thee	Ref: Confirmations 1877-1878:44.					
 														
-Louise Wilhelmine August Walter		b.	"Gittelde, Braunschweig"	29 Jan 1864	dau of	Wilhelm walter and Auguste Friedrike Bennholtz	Ref: Confirmations 1877-1878:47.							
+Louise Wilhelmine August Walter		b.	"Gittelde, Braunschweig"	29 Jan 1864	dau of	Wilhelm walter	and	Auguste Friedrike Bennholtz	Ref: Confirmations 1877-1878:47.					
 														
-Ottomar Gockel		b.	"Hörde, Westfalen"	22 Mar 1864	son of	August Gockel and Friedrike Enser	Ref: Confirmations 1877-1878:52.							
+Ottomar Gockel		b.	"Hörde, Westfalen"	22 Mar 1864	son of	August Gockel	and	Friedrike Enser	Ref: Confirmations 1877-1878:52.					
 														
-Eugene Waelfel		b.	"Altenburg, Sachsen-Altenburg"	21 May 1865	son of	Johann Waelfel and Louise W	Ref: Confirmations 1877-1878:61.							
+Eugene Waelfel		b.	"Altenburg, Sachsen-Altenburg"	21 May 1865	son of	Johann Waelfel	and	Louise W	Ref: Confirmations 1877-1878:61.					
 														
-Rosa Malwine Henriette Stamer		b.	"Wendorf, Germany"	23 Feb 1863	dau of	Heinrich Stamer and Dorothea	Ref: Confirmations 1877-1878:63.							
+Rosa Malwine Henriette Stamer		b.	"Wendorf, Germany"	23 Feb 1863	dau of	Heinrich Stamer	and	Dorothea	Ref: Confirmations 1877-1878:63.					
 														
-Andreas Balinsky		b.	"Krumknie, Posen"	11 Oct 1864	son of	Lorenz Balinsky and Tekla Lille	Ref: Confirmations 1877-1878:64.							
+Andreas Balinsky		b.	"Krumknie, Posen"	11 Oct 1864	son of	Lorenz Balinsky	and	Tekla Lille	Ref: Confirmations 1877-1878:64.					
 														
-Clara Maria Weber		b.	"Berlin, Brandenburg"	13 Apr 1864	dau of	Carl August Ferdinand Weber and Paulina Melniz	Ref: Confirmations 1878-1879:1.							
+Clara Maria Weber		b.	"Berlin, Brandenburg"	13 Apr 1864	dau of	Carl August Ferdinand Weber	and	Paulina Melniz	Ref: Confirmations 1878-1879:1.					
 														
-Johann Matthias Tepe		b.	"Natbergen, Hannover"	20 May 1865	son of	Johann Heinrich Tepe and Maria Elisabeth Nolte	Ref: Confirmations 1878-1879:3.							
+Johann Matthias Tepe		b.	"Natbergen, Hannover"	20 May 1865	son of	Johann Heinrich Tepe	and	Maria Elisabeth Nolte	Ref: Confirmations 1878-1879:3.					
 														
-Carl Johannes Boll		b.	"Gross Karben, Hessen"	30 Mar 1866	son of	Johann Philipp Boll and Margaretha Larius	Ref: Confirmations 1878-1879:6.							
+Carl Johannes Boll		b.	"Gross Karben, Hessen"	30 Mar 1866	son of	Johann Philipp Boll	and	Margaretha Larius	Ref: Confirmations 1878-1879:6.					
 														
-Emma Auguste Wilhelmine Marquart		b.	"Dramburg, Preußen 29 Nov 1865"	dau of	Carl Marquart and Lina Manicke	Ref: Confirmations 1878-1879:13.								
+Emma Auguste Wilhelmine Marquart		b.	"Dramburg, Preußen"	29 Nov 1865	dau of	Carl Marquart	and	Lina Manicke	Ref: Confirmations 1878-1879:13.					
 														
-Wilhelm Friedrich Robert Marquart		b.	"Dramburg, Preußen 11 Mar 1865"	son of	Julius Marquart and Friedrike	m.	Ref: Confirmations 1878-1879:15.							
+Wilhelm Friedrich Robert Marquart		b.	"Dramburg, Preußen"	11 Mar 1865	son of	Julius Marquart	and	Friedrike	m.	Ref: Confirmations 1878-1879:15.				
 														
-Emilie Auguste Bartha Schwant		b.	"Teschendorf, Preußen 25 Jan 1866"	Ref: Confirmations 1878-1879:31.										
+Emilie Auguste Bartha Schwant		b.	"Teschendorf, Preußen"	25 Jan 1866	Ref: Confirmations 1878-1879:31.									
 														
-Georg Eduard Meier		b.	"Wettesingen, Hessen-Nassau"	6 Sept 1866	son of	Gottlieb Friedrich Meier and Christine Gemeinde	Ref: Confirmations 1879-1880:3.							
+Georg Eduard Meier		b.	"Wettesingen, Hessen-Nassau"	6 Sept 1866	son of	Gottlieb Friedrich Meier	and	Christine Gemeinde	Ref: Confirmations 1879-1880:3.					
 														
 Louise Wilhelmine Hedwig Marquart		b.	"Dramburg, Pommern"	9 Nov 1866	dau of	Hermann Marquart	Ref: Confirmations 1880:19.							
 														
@@ -3248,7 +3248,7 @@ Heinrich Wilhelm Ihms		b.	"Fargau, Schleswig-Holstein"	m.	"St. Louis, MO"	7 Apr 
 														
 Catharina Engel Surkamp		b.	"Natbergen, Hannover"	m.	"St. Louis, MO"	7 Apr 1870	Heinrich Wilhelm Ihms	Ref: Marriages 1870:11.						
 														
-Andreas Brandau		b.	"Buggenau, Bayern [?]"	son of	Johannes Brandau	m.	"St. Louis, MO"	1 May 1870	Lisette Spokhn	Ref: Marriages 1870:12.				
+Andreas Brandau		b.	"Buggenau, Bayern"	[?]	son of	Johannes Brandau	m.	"St. Louis, MO"	1 May 1870	Lisette Spokhn	Ref: Marriages 1870:12.			
 														
 Lisette Spokhn		b.	"Rockenhausen, Bayern"	dau of	Urban Spohn	m.	"St. Louis, MO"	1 May 1870	Andreas Brandau	Ref: Marriages 1870:12.				
 														
@@ -3270,7 +3270,7 @@ Andreas Volz		b.	"Bermuthshain [?], Hessen"	m.	"St. Louis, MO"	23 July 1870	Anna
 														
 Carolina Maria Alpers		b.	"Brammer, Verden Alller [?], Hannover"	dau of	Claus Alpers	m.	"St. Louis, MO"	24 Sept 1870	Carl Eduard Beck	Ref: Marriages 1870:20.				
 														
-Friedrich Wilhelm Heinrich Streutker		b.	"Häder, Bayern [?]"	son of	Johann Streutker	m.	"St. Louis, MO"	1870	Carolina Niemann	Ref: Marriages 1870:21.				
+Friedrich Wilhelm Heinrich Streutker		b.	"Häder, Bayern"	[?]	son of	Johann Streutker	m.	"St. Louis, MO"	1870	Carolina Niemann	Ref: Marriages 1870:21.			
 														
 Carolina Niemann		b.	"Holzhausen, Westfalen"	dau of	Wilhelm Niemann	son of	Johann Streutker	m.	"St. Louis, MO"	1870	Friedrich Wilhelm Heinrich Streutker	Ref: Marriages 1870:21.		
 														
@@ -3364,7 +3364,7 @@ Friedrich Wilhelm Schirmer		b.	"Saarbrücken, Rheinprovinz"	m.	"St. Louis, MO"	7 
 														
 Elisabeth Rapp		b.	"Lehr, Württemberg [?]"	m.	"St. Louis, MO"	7 May 1872	Friedrich Wilhelm Schirmer	Ref: Marriages 1872:11.						
 														
-Friedrich Pracht		b.	"Bergzabern, Bayern [?]"	m.	"St. Louis, MO"	22 May 1872	Julie Marley	Ref: Marriages 1872:12.						
+Friedrich Pracht		b.	"Bergzabern, Bayern"	[?]	m.	"St. Louis, MO"	22 May 1872	Julie Marley	Ref: Marriages 1872:12.					
 														
 Friedrich Wilhelm Schnake		b.	"Ubbedissen-Lippe, Minden, Westfalen [?]"	m.	"St. Louis, MO"	26 May 1872	Christine Wilhelmine Borcherding	Ref: Marriages 1872:13.						
 														
@@ -3714,7 +3714,7 @@ Johann Heinrich Theodor Rueenbeck		b.	"Ramsbeck, Westfalen"	18 Aug 1857	son of	F
 														
 Hermann Wilhelm Carl Schwandt		b.	"Dramburg, Pommern [?]"	18 Jan 1859	son of	Carl Scwandt	Ref: Confirmations 1871/1872:30.							
 														
-Emma Troppmann		b.	"Mühlhausen, Elsaß-Lothringen 14 Nov 1844"	dau of	Nicolaus Troppmann	Ref: Confirmations 1871/1872:35.								
+Emma Troppmann		b.	"Mühlhausen, Elsaß-Lothringen"	14 Nov 1844	dau of	Nicolaus Troppmann	Ref: Confirmations 1871/1872:35.							
 														
 Wilhelm Friedrich Firmer		b.	"Bayreuth, Bayern"	12 Dec 1857	son of	Wilhelm Firmer	Ref: Confirmations 1871/1872:36.							
 														
@@ -3742,4 +3742,4 @@ Anna Maria Schroeder		b.	"Veitlahm, Bayern"	14 May 1862	dau of	Andreas Schroeder
 														
 Maria Louise Tepe		b.	"Achelriede, Hannover"	29 Oct 1860	dau of	Johann Heinrich Tepe	Ref: Confirmations 1875:38.							
 														
-Sophia Persson		b.	"Mathä, Bayern [?]"	d.	"St. Louis, MO"	25 Jan 1873	bur.	St. Louis 27 Jan 1873	Ref: Deaths 1875:3.					
+Sophia Persson		b.	"Mathä, Bayern"	[?]	d.	"St. Louis, MO"	25 Jan 1873	bur.	St. Louis 27 Jan 1873	Ref: Deaths 1875:3.				
